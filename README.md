@@ -68,5 +68,3 @@ class WhoAmI:
   - If you have any suggestions to this README, feel free to pull up a request.  
 
 
-
-طط
