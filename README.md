@@ -22,11 +22,11 @@
 
 ## 💻 Technologies I Love
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-58a6ff?style=for-the-badge&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-3fb950?style=for-the-badge&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-1f6feb?style=for-the-badge&logoColor=white)
-![Security](https://img.shields.io/badge/Cybersecurity-c14438?style=for-the-badge&logoColor=white)
-![Web](https://img.shields.io/badge/Web_Development-8957e5?style=for-the-badge&logoColor=white)
+<p![AI](https://img.shields.io/badge/Artificial_Intelligence-58a6ff?style=for-the-badge&logoColor=white)/></p>
+<p![ML](https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-3fb950?style=for-the-badge&logoColor=white)/></p>
+<p![Cloud](https://img.shields.io/badge/Cloud_Computing-1f6feb?style=for-the-badge&logoColor=white)/></p>
+<p![Security](https://img.shields.io/badge/Cybersecurity-c14438?style=for-the-badge&logoColor=white)/></p>
+<p![Web](https://img.shields.io/badge/Web_Development-8957e5?style=for-the-badge&logoColor=white)/></p>
 
 ## 🛠️ Tech Stack
 
