@@ -20,33 +20,29 @@
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-## :computer: Technologies I Love
-* Artificial Intelligence
-* Machine Learning & Deep Learning
-* Cloud Computing
-* Cybersecurity
-* Web Development (React + ASP.NET Core)
+## 💻 Technologies I Love
 
-## Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />&nbsp;
-</p>
+![AI](https://img.shields.io/badge/Artificial_Intelligence-58a6ff?style=for-the-badge&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-3fb950?style=for-the-badge&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-1f6feb?style=for-the-badge&logoColor=white)
+![Security](https://img.shields.io/badge/Cybersecurity-c14438?style=for-the-badge&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Development-8957e5?style=for-the-badge&logoColor=white)
 
-## Technologies I Use
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" />&nbsp;
-</p>
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=dart,python,java,javascript,typescript,html,css" alt="Programming Languages" /> </p>
+
+### Frameworks & Libraries
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,swift,react,nodejs,tailwindcss,django,pytorch,tensorflow" alt="Frameworks & Libraries" /> </p>  
+
+### Databases & Cloud
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,gcp,aws" alt="Databases & Cloud" /> </p>  
+
+### Tools & DevOps
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,figma" alt="Tools & DevOps" /> </p>
+
 
 ## Who am I?
 ```python
