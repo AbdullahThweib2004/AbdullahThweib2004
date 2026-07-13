@@ -31,14 +31,14 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=dart,python,java,javascript,typescript,html,css" alt="Programming Languages" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" alt="Programming Languages" /> </p>
 
 ### Frameworks & Libraries
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,swift,react,nodejs,tailwindcss,django,pytorch,tensorflow" alt="Frameworks & Libraries" /> </p>  
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,django,tensorflow" alt="Frameworks & Libraries" /> </p>  
 
 ### Databases & Cloud
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,gcp,aws" alt="Databases & Cloud" /> </p>  
+<p align="left"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,aws" alt="Databases & Cloud" /> </p>  
 
 ### Tools & DevOps
 <p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,figma" alt="Tools & DevOps" /> </p>
