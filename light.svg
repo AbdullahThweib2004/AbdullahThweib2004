@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" font-family="'JetBrains Mono','Courier New',monospace">
+<defs>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0969da" stop-opacity="0"/><stop offset="50%" stop-color="#0969da" stop-opacity="0.14"/><stop offset="100%" stop-color="#0969da" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="898" height="478" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+<path d="M1 13 A12 12 0 0 1 13 1 L887 1 A12 12 0 0 1 899 13 L899 34 L1 34 Z" fill="#f6f8fa"/>
+<circle cx="24" cy="18" r="5.5" fill="#ff5f56"/>
+<circle cx="44" cy="18" r="5.5" fill="#ffbd2e"/>
+<circle cx="64" cy="18" r="5.5" fill="#27c93f"/>
+<text x="450.0" y="22" fill="#8c959f" font-size="12.5" text-anchor="middle">abdullah@devos ~ % ./profile.sh --live</text>
+<text x="876" y="22" fill="#1a7f37" font-size="11" text-anchor="end" font-weight="bold">● SCANNING<animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></text>
+<rect x="22" y="48" width="300" height="410" rx="6" fill="#f0f3f6" stroke="#8c959f" stroke-width="0.5" stroke-opacity="0.5"/>
+<text x="36" y="70" fill="#0969da" font-size="12" font-weight="bold" letter-spacing="1">VISUAL.MAP</text>
+<text x="38" y="96" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">+------------------------+</text>
+<text x="38" y="113" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|  01000001 01010100 01  |</text>
+<text x="38" y="130" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|                        |</text>
+<text x="38" y="147" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|      .------.          |</text>
+<text x="38" y="164" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|     | ^    ^ |         |</text>
+<text x="38" y="181" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|     |  o  o  |         |</text>
+<text x="38" y="198" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|     |   __   |         |</text>
+<text x="38" y="215" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|     |  \__/  |         |</text>
+<text x="38" y="232" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|      '------'          |</text>
+<text x="38" y="249" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|                        |</text>
+<text x="38" y="266" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|   &lt; DEVELOPER /&gt;        |</text>
+<text x="38" y="283" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|                        |</text>
+<text x="38" y="300" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|   [#] AI  ·  CLOUD      |</text>
+<text x="38" y="317" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|   [#] CYBERSECURITY     |</text>
+<text x="38" y="334" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">|   [#] FULL-STACK        |</text>
+<text x="38" y="351" fill="#1a7f37" font-size="12" xml:space="preserve" font-family="'Courier New',monospace">+------------------------+</text>
+<rect x="22" y="48" width="300" height="46" fill="url(#scan)"><animate attributeName="y" values="48;412;48" dur="4s" repeatCount="indefinite"/></rect>
+<text x="350" y="74" fill="#0969da" font-size="12.5" font-weight="bold" letter-spacing="1">SYSTEM.INFO</text>
+<text x="350" y="95.5" fill="#1a7f37" font-size="13.5" font-weight="bold">abdullah@devos</text>
+<line x1="350" y1="103.5" x2="870" y2="103.5" stroke="#8c959f" stroke-width="0.6" stroke-dasharray="2,3"/>
+<text x="350" y="123.0" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">.Subject</tspan><tspan fill="#8c959f"> ......................................... </tspan><tspan fill="#1f2328">Abdullah Thweib</tspan></text>
+<text x="350" y="144.5" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">.Role</tspan><tspan fill="#8c959f"> ......................... </tspan><tspan fill="#1f2328">IT Student · AI &amp; Cloud Enthusiast</tspan></text>
+<text x="350" y="166.0" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">.Origin</tspan><tspan fill="#8c959f"> ................................................ </tspan><tspan fill="#1f2328">Palestine</tspan></text>
+<text x="350" y="187.5" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">.Status</tspan><tspan fill="#8c959f"> ........................... </tspan><tspan fill="#1f2328">Building · Learning · Shipping</tspan></text>
+<text x="350" y="209.0" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">.ToolChain</tspan><tspan fill="#8c959f"> ......................... </tspan><tspan fill="#1f2328">VS Code, Git, Docker, Postman</tspan></text>
+<text x="350" y="238.5" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Core.Lang</tspan><tspan fill="#8c959f"> ................................... </tspan><tspan fill="#1f2328">Java, Python, C, C++</tspan></text>
+<text x="350" y="260.0" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Core.Frontend</tspan><tspan fill="#8c959f"> ....................... </tspan><tspan fill="#1f2328">React, HTML, CSS, JavaScript</tspan></text>
+<text x="350" y="281.5" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Core.Backend</tspan><tspan fill="#8c959f"> .................... </tspan><tspan fill="#1f2328">Node.js, ASP.NET Core, REST APIs</tspan></text>
+<text x="350" y="303.0" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Core.Database</tspan><tspan fill="#8c959f"> ......................... </tspan><tspan fill="#1f2328">PostgreSQL, MongoDB, MySQL</tspan></text>
+<text x="350" y="324.5" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Core.Infra</tspan><tspan fill="#8c959f"> ....................... </tspan><tspan fill="#1f2328">Docker, JWT/RBAC, Microservices</tspan></text>
+<text x="350" y="354.0" fill="#1a7f37" font-size="13.5" font-weight="bold">▸ Contact</text>
+<text x="350" y="375.5" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Grid.Mail</tspan><tspan fill="#8c959f"> ............................ </tspan><tspan fill="#1f2328">abdullahthweib111@gmail.com</tspan></text>
+<text x="350" y="397.0" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Grid.LinkedIn</tspan><tspan fill="#8c959f"> .................................... </tspan><tspan fill="#1f2328">abdullah-thweib</tspan></text>
+<text x="350" y="418.5" font-size="13.5" xml:space="preserve"><tspan fill="#0969da" font-weight="bold">Grid.Github</tspan><tspan fill="#8c959f"> ................................... </tspan><tspan fill="#1f2328">AbdullahThweib2004</tspan></text>
+<text x="350" y="446.0" fill="#1a7f37" font-size="13.5" font-weight="bold" xml:space="preserve">▸ Live Stats ──────────────────────</text>
+<text x="350" y="467.5" font-size="13.5"><tspan fill="#24292f">See live GitHub badges below in README </tspan><tspan fill="#1a7f37" font-weight="bold">↓</tspan></text>
+<rect x="350" y="475.5" width="9" height="15" fill="#0969da"><animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></rect>
+</svg>

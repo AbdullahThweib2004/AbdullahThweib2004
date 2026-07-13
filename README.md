@@ -1,7 +1,7 @@
-<a href="https://github.com/abdullah-thweib">
+<a href="https://github.com/AbdullahThweib2004">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-thweib/abdullah-thweib/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/abdullah-thweib/abdullah-thweib/main/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahThweib2004/AbdullahThweib2004/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/AbdullahThweib2004/AbdullahThweib2004/main/light.svg">
   </picture>
 </a>
 
@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-abdullah--thweib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-thweib/)](https://www.linkedin.com/in/abdullah-thweib/)
 [![Gmail Badge](https://img.shields.io/badge/-abdullahthweib111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdullahthweib111@gmail.com)](mailto:abdullahthweib111@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-thweib" alt="abdullah-thweib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahThweib2004" alt="AbdullahThweib2004" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
