@@ -8,68 +8,23 @@
   </picture>
 </a>
 
+<br/>
 
-<h1>Shaping ideas into reality through code and technology..</h1>
+<a href="https://abdallahthweib.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahThweib2004/AbdullahThweib2004/main/cv-dark.svg">
+    <img alt="Resume - Abdallah Thuieb" src="https://raw.githubusercontent.com/AbdullahThweib2004/AbdullahThweib2004/main/cv-light.svg">
+  </picture>
+</a>
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
+<p align="center">
+  <a href="https://abdallahthweib.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdallahthweib.vercel.app-1f6feb?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/AbdullahThweib2004/AbdullahThweib2004/blob/main/CV_Abdallah_Thuieb.pdf"><img src="https://img.shields.io/badge/Download-CV_(PDF)-3fb950?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-abdullah--thweib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-thweib/)](https://www.linkedin.com/in/abdullah-thweib/)
-[![Gmail Badge](https://img.shields.io/badge/-abdullahthweib111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdullahthweib111@gmail.com)](mailto:abdullahthweib111@gmail.com)
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahThweib2004" alt="AbdullahThweib2004" /> </p>
-
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
-
-## 💻 Technologies I Love
-
-![AI](https://img.shields.io/badge/Artificial_Intelligence-58a6ff?style=for-the-badge&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-3fb950?style=for-the-badge&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-1f6feb?style=for-the-badge&logoColor=white)
-![Security](https://img.shields.io/badge/Cybersecurity-c14438?style=for-the-badge&logoColor=white)
-![Web](https://img.shields.io/badge/Web_Development-8957e5?style=for-the-badge&logoColor=white)
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" alt="Programming Languages" /> </p>
-
-### Frameworks & Libraries
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,django,tensorflow" alt="Frameworks & Libraries" /> </p>  
-
-### Databases & Cloud
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,aws" alt="Databases & Cloud" /> </p>  
-
-### Tools & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,figma" alt="Tools & DevOps" /> </p>
-
-
-## Who am I?
-```python
-class WhoAmI:
-    user = 'Abdullah Thweib'
-    current_work = 'IT Student | Exploring AI & Cloud'
-    hobbies = [
-        'Coding',
-        'Cybersecurity & Data Security',
-        'Learning new technologies',
-        'Improving my English'
-    ]
-
-    def getCity():
-        return Palestine()
-
-    def Ambitions():
-        MasterAI()
-        BecomeCloudExpert()
-        AdvanceCybersecurityKnowledge()
-        # and much more...;)
-```
-
-## Current Works
-* Diving deeper into AI, Cloud Computing, and Cybersecurity.
-* Currently working on 🔭 building **Web Apps using React & ASP.NET Core** and improving my skills 🌱 in **Database Systems & Networking**.
-
-## Other Stuff
-  - :octocat: [My Resume](https://www.linkedin.com/in/abdullah-thweib/)
-  - If you have any suggestions to this README, feel free to pull up a request.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahThweib2004/AbdullahThweib2004/main/whoami-dark.svg">
+  <img alt="Who am I?" src="https://raw.githubusercontent.com/AbdullahThweib2004/AbdullahThweib2004/main/whoami-light.svg">
+</picture>
