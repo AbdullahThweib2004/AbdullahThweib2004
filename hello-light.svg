@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<defs>
+<linearGradient id="hshine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0">
+  <stop offset="0%" stop-color="#0969da"/><stop offset="35%" stop-color="#1a7f37"/>
+  <stop offset="50%" stop-color="#1b7c83"/><stop offset="65%" stop-color="#8250df"/><stop offset="100%" stop-color="#0969da"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="0 0;500 0" dur="4s" repeatCount="indefinite"/>
+  </linearGradient>
+<linearGradient id="hrule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0969da" stop-opacity="0"/><stop offset="50%" stop-color="#0969da"/><stop offset="100%" stop-color="#0969da" stop-opacity="0"/></linearGradient>
+<linearGradient id="spread" spreadMethod="repeat" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0">
+  <stop offset="0%" stop-color="#0969da"/><stop offset="33%" stop-color="#1a7f37"/><stop offset="66%" stop-color="#8250df"/><stop offset="100%" stop-color="#0969da"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="0 0;500 0" dur="4s" repeatCount="indefinite"/>
+</linearGradient>
+<clipPath id="type"><rect x="163.20000000000005" y="20" width="509.59999999999997" height="80"><animate attributeName="width" from="0" to="509.59999999999997" dur="1.8s" fill="freeze" calcMode="discrete" values="0.0;26.4;52.8;79.2;105.6;132.0;158.4;184.8;211.2;237.6;264.0;290.4;316.8;343.2;369.6;396.0;422.4;448.8;475.2;501.6;509.59999999999997"/></rect></clipPath>
+<filter id="hglow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#type)">
+  <text x="167.20000000000005" y="82" font-size="44" font-weight="bold" fill="url(#spread)" filter="url(#hglow)" textLength="501.6" lengthAdjust="spacingAndGlyphs">Hey, Abdullah here!</text>
+</g>
+<rect x="670.8" y="44" width="4" height="46" fill="#0969da" opacity="0">
+  <animate attributeName="x" values="169.2;195.6;222.0;248.4;274.8;301.2;327.6;354.0;380.4;406.8;433.2;459.6;486.0;512.4;538.8;565.2;591.6;618.0;644.4;670.8" dur="1.8s" calcMode="discrete" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0;0" dur="0.9s" repeatCount="indefinite"/>
+</rect>
+<text x="702.8" y="82" font-size="40" text-anchor="middle" opacity="0">👋
+  <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.3s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="rotate" values="0 702.8 76;18 702.8 76;-10 702.8 76;18 702.8 76;-6 702.8 76;0 702.8 76;0 702.8 76" keyTimes="0;0.1;0.2;0.3;0.4;0.5;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+</text>
+<rect x="190.0" y="104" width="520" height="2" rx="1" fill="url(#hrule)">
+  <animate attributeName="width" from="0" to="520" dur="0.8s" begin="1.8s" fill="freeze"/>
+  <animate attributeName="x" from="450.0" to="190.0" dur="0.8s" begin="1.8s" fill="freeze"/>
+</rect>
+<text x="450.0" y="138" font-size="19" text-anchor="middle" fill="#0969da" font-weight="bold" opacity="1"><tspan fill="#1a7f37">&gt; </tspan>AI Engineer<animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.040;0.210;0.250;1" dur="10.4s" begin="1.8s" repeatCount="indefinite"/></text>
+<text x="450.0" y="138" font-size="19" text-anchor="middle" fill="#0969da" font-weight="bold" opacity="0"><tspan fill="#1a7f37">&gt; </tspan>Machine Learning &amp; LLMs<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.250;0.290;0.460;0.500;1" dur="10.4s" begin="1.8s" repeatCount="indefinite"/></text>
+<text x="450.0" y="138" font-size="19" text-anchor="middle" fill="#0969da" font-weight="bold" opacity="0"><tspan fill="#1a7f37">&gt; </tspan>RAG &amp; AI Automation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.500;0.540;0.710;0.750;1" dur="10.4s" begin="1.8s" repeatCount="indefinite"/></text>
+<text x="450.0" y="138" font-size="19" text-anchor="middle" fill="#0969da" font-weight="bold" opacity="0"><tspan fill="#1a7f37">&gt; </tspan>Secure Software Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.750;0.790;0.960;1.000;1" dur="10.4s" begin="1.8s" repeatCount="indefinite"/></text>
+<text x="450.0" y="172" font-size="13" text-anchor="middle" fill="#57606a">Palestine <tspan fill="#1a7f37">·</tspan> AI <tspan fill="#1a7f37">·</tspan> ML <tspan fill="#1a7f37">·</tspan> LLMs <tspan fill="#1a7f37">·</tspan> Cybersecurity</text>
+</svg>
